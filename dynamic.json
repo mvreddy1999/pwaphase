@@ -1,0 +1,43 @@
+{
+  "profile":{
+    "image":"images/baby.jpg",
+    "name":"MV",
+    "designation":"Student",
+    "mbl":"1231231234",
+     "Email":"mvreddy@gmail.com"
+  },
+  "career":{
+    "info":"To be crazy"
+  },
+  "education":
+    [
+      {
+      "Qualification":"SSc",
+      "Institute":"sarada",
+      "YOP":"2015",
+       "%":"97"
+  },
+  {
+    "Qualification":"Inter",
+    "Institute":"Sri Chaitanya",
+    "YOP":"2017",
+     "per":"98"
+  },
+  {
+    "Qualification":"B.Tech",
+    "Institute":"MITS",
+    "YOP":"2021",
+     "%":"94"
+  }
+],
+"skills":[{
+    "name":"Web Tech",
+    "info":["C,HTML,CSS"]
+
+  },
+   {
+     "name":"databases",
+     "info":["jdbc","sql"]
+   }
+]
+}
